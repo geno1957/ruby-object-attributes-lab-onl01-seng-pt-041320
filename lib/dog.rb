@@ -1,9 +1,6 @@
 
 class Dog 
-  
-  attr_accessor :name, :breed 
-  attr_reader: 
-  
+ 
   def name 
     @name 
   end 
